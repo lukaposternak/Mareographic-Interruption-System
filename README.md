@@ -9,8 +9,9 @@ Make sure Python 3.9 or higher is used
 python_version >= "3.9"
 
 # How to use
-1)cd path/to/your/folder
+1)
 
+cd path/to/your/folder
 2)
 
 Windows:
