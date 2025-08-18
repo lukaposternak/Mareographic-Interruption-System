@@ -11,7 +11,7 @@ python_version >= "3.9"
 # How to use
 1)
 cd path/to/your/folder
-2) 
+2)
 Windows:
 python main.py
 Linux:
